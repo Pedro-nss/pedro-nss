@@ -8,12 +8,12 @@
 
 <div>
   <a href="https://github.com/pedronss">
-  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedronss&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100%" width="369px" border-radius= "90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-nss&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 <div>
 <a href="https://github.com/pedronss">
-<img height="100%" width="369x" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=pedronss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="100%" width="369x" border-radius= "90px" src="https://github-readme-stats.vercel.app/api?username=pedro-nss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div> 
 
 ## Linguagens:
