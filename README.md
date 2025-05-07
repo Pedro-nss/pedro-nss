@@ -2,7 +2,7 @@
 
 # Meu nome é Pedro. <img align="center" alt="Coffe" height="43" width="43" src="https://media.tenor.com/z48FH6xh9_UAAAAi/thisisfinland-finland.gif">
 
-- Atualmente estudando no SENAI 👨‍🎓
+- Atualmente cursando na Estácio 👨‍🎓
 - Aprecio um bom café☕
 - Estudando React...
 
