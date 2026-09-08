@@ -1,6 +1,6 @@
 
 
-# Meu nome é Pedro. <img align="center" alt="Coffe" height="43" width="43" src="https://media.tenor.com/z48FH6xh9_UAAAAi/thisisfinland-finland.gif">
+# Meu nome é Pedro.
 
 - Atualmente cursando na Univertix 👨‍🎓
 - Estudando Nodejs...
